@@ -11,6 +11,7 @@ jobs:
       matrix:
         containers: [1, 2] # Uses 2 parallel instances
     steps:
+      - uses: cypress-io/github-action@v6
       - name: Checkout
         uses: actions/checkout@v4
       - name: Cypress run
