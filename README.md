@@ -1,6 +1,6 @@
 # Fractal Wood Stories Test Project
 
-This project contains automated tests for the e-commerce website [Fractal Wood Stories](https://fractalwoodstories.com) using [Cypress](https://www.cypress.io/). Cypress is a modern, open-source test framework that makes it easy to write and run end-to-end tests.
+This project contains automated tests for the e-commerce website [fractalwoodstories.com](https://fractalwoodstories.com) using [Cypress](https://www.cypress.io/). Cypress is a modern, open-source test framework that makes it easy to write and run end-to-end tests.
 
 ## Table of Contents
 
