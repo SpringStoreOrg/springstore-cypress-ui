@@ -27,17 +27,17 @@ Before you begin, ensure you have the following installed:
 
 2. Install the project dependencies:
  npm install
- 
-Running Tests Locally
+
+## Running Tests Locally
 To open the Cypress Test Runner and run tests interactively, use the following command:
 
 npx cypress open
 
-Running Tests in Headless Mode
+## Running Tests in Headless Mode
 To run all tests in headless mode use the following command:
 npx cypress run --headless --browser chrome
 
-3. License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Feel free to customize this `README.md` further based on the specifics of your project or any additional details you'd like to include.
 
